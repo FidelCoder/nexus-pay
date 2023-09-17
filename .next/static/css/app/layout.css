@@ -1231,9 +1231,6 @@ input[type=range]::-moz-focus-outer {
 .ml-3 {
   margin-left: 0.75rem;
 }
-.ml-4 {
-  margin-left: 1rem;
-}
 .mr-2 {
   margin-right: 0.5rem;
 }
@@ -1731,10 +1728,6 @@ input[type=range]::-moz-focus-outer {
 .hover\:bg-gray-800:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(37 40 44 / var(--tw-bg-opacity));
-}
-.hover\:bg-purple-600:hover {
-  --tw-bg-opacity: 1;
-  background-color: rgb(93 93 255 / var(--tw-bg-opacity));
 }
 .hover\:bg-purple-700:hover {
   --tw-bg-opacity: 1;
